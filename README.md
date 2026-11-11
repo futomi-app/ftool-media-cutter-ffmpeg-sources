@@ -4,7 +4,7 @@ This repository provides the corresponding source materials for the FFmpeg and
 ffprobe executables distributed with fTool Media Cutter by futomi.app.
 
 Download the **two uploaded source ZIPs and their SHA256SUMS.txt file** from
-[Releases](https://github.com/futomi-app/ffmpeg-sources/releases). Both ZIPs are required. The automatically generated
+[Releases](https://github.com/futomi-app/ftool-media-cutter-ffmpeg-sources/releases). Both ZIPs are required. The automatically generated
 GitHub **Source code (zip)** and **Source code (tar.gz)** downloads contain this
 repository's documentation, not the complete FFmpeg source bundle.
 
