@@ -76,13 +76,6 @@ not rerun locally, and byte-identical reproduction is not claimed. Original
 and tested reconstruction source sets are supplied for the unpinned rav1e
 build-helper resolution. See `BUILD.txt` for the full explanation.
 
-## 日本語
-
-Releasesから、対象の版のZIP **2つとも** と `SHA256SUMS.txt` をダウンロードしてください。
-購入・ログインは不要です。両方のZIPを同じ新規フォルダーへ展開し、`BUILD.txt` を参照してください。
-GitHubが自動で表示する「Source code (zip)」「Source code (tar.gz)」は、必要なソース一式ではありません。
-公開対象はFFmpeg / ffprobeとその依存部品・ビルド資料です。
-
 ## Upstream
 
 - [FFmpeg](https://ffmpeg.org/)
